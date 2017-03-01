@@ -14,9 +14,9 @@ webpack! component based import css in javascript
 just remove gulp and grunt
 split your code by components
 bem -> block element modifier
-css modules with bem like class names
+css modules with bem like class name
 
-
+https://speakerdeck.com/okonet/modular-css-agent-conf-17-edition
 
 ## Bots – Chatting with your Users
 ###### 12:00
