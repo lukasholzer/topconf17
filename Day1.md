@@ -39,6 +39,7 @@ the web is changing
 compareable to Typescript but not a own language it is more types on top of babel with the benefit, that you dont have to write every file in flow so you can do it step by step.
 
 It is a static type checker 
+
 [Flow Website](https://flowtype.org/)
 
 ## UX reports from the trenches
@@ -51,16 +52,25 @@ More than 50% of the world are living in the asian circle (almost every househol
 so think about *mobile first and desktop second* 
 
 Biggest sales event in the world -> **single day 2016** invented by the chinese (almost for mobile devices)
+
 [what does my site cost](https://whatdoesmysitecost.com) check out how expensive it is to click through the webiste in different countrys.
 
+avagerage page size 2.5Mb costs in Australia ~40€ for an initial page load.
 
+**Mariott app:**
+* Booking
+* Traveling
+* Check in
+* services like ordering food
 
 ## Panel discussion: Distributed Development Teams 
 
 
 
 # ohter useful technologies talked about
+Take a look on **OCaml**!
 
 Reason is an OCaml build system
+
 [REASON](https://facebook.github.io/reason/)
 
