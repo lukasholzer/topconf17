@@ -1,12 +1,21 @@
 
-## CSS-Grid – a tale of Hypnotoad and All Glory to the new css Layout 
-###### 10:20
-#UX/UI
+## CSS-Grid – a tale of Hypnotoad and All Glory to the new css Layout
+css flexbox
+css grid
+other cool css stuff (not really supported)
+
 
 
 ## Modular CSS
-###### 11:10
-#UX/UI
+
+github/okonet
+
+webpack! component based import css in javascript
+just remove gulp and grunt
+split your code by components
+bem -> block element modifier
+css modules with bem like class names
+
 
 
 ## Bots – Chatting with your Users
