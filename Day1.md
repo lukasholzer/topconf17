@@ -6,6 +6,7 @@
   - Variables in CSS
 
 [CSS-Tricks guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 [CSS-Tricks guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ## Modular CSS
@@ -32,12 +33,10 @@ https://github.com/innoq/tutorial-clj-webapp
 
 ## Flowtype and The Wonders of Statically Typed JavaScript
 ###### 14:30
-#UX/UI
 
 
 ## UX reports from the trenches
 ###### 15:30
-#UX/UI
 
 ## Panel discussion: Distributed Development Teams 
 
