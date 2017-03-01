@@ -42,3 +42,8 @@ https://github.com/innoq/tutorial-clj-webapp
 
 
 
+# ohter useful technologies talked about
+
+Reason is an OCaml build system
+[REASON](https://facebook.github.io/reason/)
+
