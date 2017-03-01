@@ -28,8 +28,12 @@ live coding projcet is the *another toDo application* written in Clojure.
 https://github.com/innoq/tutorial-clj-webapp
 
 ## New interactions for the web
-###### 13:40
-#UX/UI
+the web is changing
+* mobile
+* game consoles
+* VR
+* big screens
+* bots, vconversational interfaces (voice)
 
 ## Flowtype and The Wonders of Statically Typed JavaScript
 ###### 14:30
