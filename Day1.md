@@ -65,7 +65,7 @@ avagerage page size 2.5Mb costs in Australia ~40€ for an initial page load.
 * services like ordering food
 
 
-**Optizize above the fold** think ybout moblie is cost sensitive – so more light weight your page, so more better is your page ;)
+**Optizize above the fold** think about mobile is cost sensitive – so more light weight your page, so more better is your page ;)
 
 ## Panel discussion: Distributed Development Teams 
 
