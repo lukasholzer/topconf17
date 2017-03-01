@@ -5,5 +5,5 @@ all about the talks I attended
 
 
 ## Important informations
-Wifi passwort: oknwzs
+Wifi passwort: `oknwzs`
 SSID: OOE-TICKET
