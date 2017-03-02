@@ -1,7 +1,15 @@
 # Day two of the TopConf17
 
 ## Opening Open Source with DevOps
-10:20 – Ursulinensaal
+Put stuff in containers and virtual images so that open source is easy for everybody to contribute!
+
+* Ansible
+* Vagrant
+* Docker easy from the command line (every app in one docker container and manage them with docker compose)
+* GitLab
+* chef omnibus
+
+
 
 ## Nativescript 2 with Angular 2 – leveraging the full power of native
 11:10 – Presseclub
