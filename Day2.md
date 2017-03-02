@@ -18,10 +18,7 @@ Put stuff in containers and virtual images so that open source is easy for every
 
 
 ## Nativescript 2 with Angular 2 – leveraging the full power of native
-11:10 – Presseclub
 
-## Microservices Without Servers
-11:10 – Clubgallerie
 
 ## Frequent Releases & Major Changes
 12:00 – Ursulinensaal
