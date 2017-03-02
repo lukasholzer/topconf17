@@ -67,9 +67,6 @@ create own app: `tns create my-app-name --ng` (--ng) flag for angular app
 **it is just angular2** with a component layer
 
 
-
-## Frequent Releases & Major Changes
-12:00 – Ursulinensaal
-
 ## I have a stream – Insights in Reactive Programming
-13:40 – Clubgallerie
+Thinking in asynchronous streams in the case of the reactive programming paradigm.
+It is a new way to work with async data and obsserveables.
